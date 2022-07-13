@@ -122,3 +122,7 @@ p#section{
     font-weight: bold;
     color: black;
 }
+
+h1{
+    text-align: center;
+}
